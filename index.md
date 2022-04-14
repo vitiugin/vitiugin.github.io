@@ -4,6 +4,8 @@ My main research interests are Crisis Informatics and Data Science for Social Go
 
 I received my Master's Degree (with honors) in Computational linguistics from the National Research University Higher School of Economics under the supervision of Prof. Nikolay Karpov with a dissertation titled "Deep Semantics in Expert Finding Systems." We proposed an LSI-based topic similarity search model for authors of academic publications.
 
+Before starting my Ph.D., I worked in [Havas Media Russia](https://ru.havas.com/havas-media/), [Ailove](https://ailove.ru/) and [CMG](https://convergent-usa.com/).
+
 ### Publications
 - **Fedor Vitiugin**, Carlos Castillo (HyperText'22 submission). Cross-Lingual Query-Based Summarization of Crisis-Related Social Media: An Abstractive Approach Using Transformers.
 - Lan Li, Aisha Aldosery, **Fedor Vitiugin**, Naomi Nathan, David Novillo-Ortiz, Carlos Castillo, Patty Kostkova (2021). The Response of Governments and Public Health Agencies to COVID-19 Pandemics on Social Media: A Multi-Country Analysis of Twitter Discourse. Frontiers in Public Health, 1410.
