@@ -1,12 +1,16 @@
-I am a 3rd year Ph.D. student at [Web Science and Social Computing research group](https://www.upf.edu/web/wssc) of Universitat Pompeu Fabra, Barcelona working under the supervision of Prof. [Carlos Castillo](https://chato.cl/research/). 
+I am a postdoctoral researcher at [CRitical AI and Crisis Interrogatives (CRAI-CIS)](https://crai-cis.aalto.fi) research group of Aalto University, Espoo, Finland. 
 
-My main research interests are Crisis Informatics and Data Science for Social Good, focusing on Multilingual Information Extraction.
+My main research interest is Data Science for Social Good, with focus on Multilingual Information Retreival and Transfer Learning technique.
+
+I received my doctoral degree in ICT at [Web Science and Social Computing research group](https://www.upf.edu/web/wssc) of Universitat Pompeu Fabra, Barcelona where I was advised by Prof. [Carlos Castillo](https://chato.cl/research/). 
 
 I received my Master's Degree (with honors) in Computational linguistics from the National Research University Higher School of Economics under the supervision of Prof. Nikolay Karpov with a dissertation titled "Deep Semantics in Expert Finding Systems." We proposed an LSI-based topic similarity search model for authors of academic publications.
 
 Before starting my Ph.D., I worked in [Havas Media Russia](https://ru.havas.com/havas-media/), [Ailove](https://ailove.ru/) and [CMG](https://convergent-usa.com/).
 
 ### Publications
+- **Fedor Vitiugin**, Hemant Purohit (2024). Serviceability Model for Ranking Multilingual Social Media Requests. Proceedings of ICWSM.
+- Hamada M. Zahera, **Fedor Vitiugin**, Mohamed Ahmed Sherif, Carlos Castillo, Axel-Cyrille Ngonga Ngomo (2023). Using Pre-Trained Language Models for Abstractive DBPEDIA Summarization: A Comparative Study. Knowledge Graphs: Semantics, Machine Learning, and Languages, pp. 19-37. IOS Press.
 - ![Best Student Paper](https://dl.acm.org/userimages/na101/home/literatum/publisher/acm/classification/LinkedImages/awarded-papers/best-student-paper/icon-small_201811150827.jpg) **Fedor Vitiugin**, Carlos Castillo (2022). Cross-Lingual Query-Based Summarization of Crisis-Related Social Media: An Abstractive Approach Using Transformers. Proceedings of the 33rd ACM Conference on Hypertext and Social Media, Barcelona, Spain. [[code](https://github.com/vitiugin/CLiQS-CM)]
 - Lan Li, Aisha Aldosery, **Fedor Vitiugin**, Naomi Nathan, David Novillo-Ortiz, Carlos Castillo, Patty Kostkova (2021). The Response of Governments and Public Health Agencies to COVID-19 Pandemics on Social Media: A Multi-Country Analysis of Twitter Discourse. Frontiers in Public Health, 1410. [[code](https://github.com/vitiugin/who)]
 - **Fedor Vitiugin**, Giorgio Barnabo (2021). Emotion Detection for Spanish by Combining LASER Embeddings, Topic Information, and Offense Features. IberLEF. Málaga, Spain. [[code](https://github.com/vitiugin/ComboLASER)]
