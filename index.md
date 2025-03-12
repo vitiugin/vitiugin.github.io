@@ -1,6 +1,6 @@
 I am a postdoctoral researcher at [Speech Interaction Technology Group]([https://crai-cis.aalto.fi](https://www.aalto.fi/en/department-of-information-and-communications-engineering/speech-interaction-technology)) research group at Aalto University in Espoo, Finland. Since March 2025, I have also been a postdoctoral researcher in the [TurkuNLP Group](https://turkunlp.org) at the University of Turku, Turku, Finland.
 
-My main research interest is Data Science for Social Good, with focus on Multilingual Natural Language Processing.
+My main research interest is AI for Social Good, with focus on Multilingual Natural Language Processing.
 
 I received my doctoral degree in ICT at [Web Science and Social Computing research group](https://www.upf.edu/web/wssc) of Universitat Pompeu Fabra, Barcelona where I was advised by Prof. [Carlos Castillo](https://chato.cl/research/). My [doctoral thesis](http://hdl.handle.net/10803/689218) focuses on developing a multilingual approach to extract, summarize, and prioritize crisis-related information from social media, enabling emergency managers and responders to efficiently monitor events, validate data, and address critical help-seeking requests.
 
