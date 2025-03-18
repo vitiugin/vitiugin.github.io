@@ -6,7 +6,7 @@ I received my doctoral degree in ICT at [Web Science and Social Computing resear
 
 I received my Master's Degree (with honors) in Computational linguistics from the National Research University Higher School of Economics under the supervision of Prof. Nikolay Karpov with a dissertation titled "Deep Semantics in Expert Finding Systems." We proposed an LSI-based topic similarity search model for authors of academic publications.
 
-Before starting my Ph.D., I worked in [Havas Media Russia](https://ru.havas.com/havas-media/), [Ailove](https://ailove.ru/) and [CMG](https://convergent-usa.com/).
+Before starting my Ph.D., I worked in [Havas](https://www.havas.com), [Ailove](https://ailove.ru/) and [Convergent](https://convergent.digital/en).
 
 ### Publications
 - **Fedor Vitiugin**, Hemant Purohit (2024). Serviceability Model for Ranking Multilingual Social Media Requests. Proceedings of ICWSM. [[code](https://github.com/vitiugin/multmr)]
